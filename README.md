@@ -17,14 +17,14 @@
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=github,python,javascript,c#,mongodb,java"/><br>
-        <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,flask,html,css,vscode,figma,git"/><br>
+        <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,git"/><br>
     </a>
 </div>
 
 <h2 align="center">⚡️ Stats ⚡️</h2>
 <br>
 <div align="center">
-    <img width=390 src="https://streak-stats.demolab.com/?user=acesono&count_private=true&theme=react&border radius=10"/>
+    <img width=390 src="https://streak-stats.demolab.com/?user=wasa10&count_private=true&theme=react&border radius=10"/>
 </div>
 
 <h2 align="center">📫 Reach me</h2>
