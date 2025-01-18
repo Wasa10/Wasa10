@@ -1,6 +1,6 @@
 <div align="center">
     <hl align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdulwasa+Abdulkadir!;"/>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400&lines=Hi+There!+👋;+I'm+Abdulwasa+Abdulkadir!;"/>
     </h1>
 </div>
 
@@ -16,16 +16,11 @@
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,javascript,c#,mongodb,java"/><br>
+        <img src="https://skillicons.dev/icons?i=python,javascript,C#,mongodb,java"/><br>
         <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode"/><br>
     </a>
 </div>
 
-<h2 align="center">⚡️ Stats ⚡️</h2>
-<br>
-<div align="center">
-    <img width="390" src="https://streak-stats.demolab.com/?user=Wasa10&count_private=true&theme=react&border_radius=10"/>
-</div>
 
 <h2 align="center">📫 Reach me</h2>
 <br/>
