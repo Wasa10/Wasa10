@@ -10,7 +10,7 @@
 
 <div align="center">
     <p>🎓 Studying Software Engineering at HiLCoE.</p>
-    <p>💻 Currently focusing on Python, JavaScript, and Dart.</p> 
+    <p>💻 Currently focusing on My Life</p> 
 </div>
 
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
