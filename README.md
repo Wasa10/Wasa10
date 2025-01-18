@@ -15,10 +15,11 @@
 
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <div align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,javascript,C#,mongodb,java"/><br>
-        <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode"/><br>
-    </a>
+<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=python,javascript,csharp,mongodb,java" alt="Skills: Python, JavaScript, C#, MongoDB, Java"/><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode" alt="Skills: React, Bootstrap, MySQL, HTML, CSS, VSCode"/>
+</a>
+
 </div>
 
 
